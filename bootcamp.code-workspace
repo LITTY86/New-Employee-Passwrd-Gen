@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\Users\\12166\\Downloads\\05-Stu_Setting-Attributes Unsolved\\05-Stu_Setting-Attributes Unsolved"
+		},
+		{
+			"path": "..\\Users\\12166\\Downloads\\07-Stu_LookMaNoHTML Unsolved\\07-Stu_LookMaNoHTML Unsolved"
+		},
+		{
+			"path": "..\\Users\\12166\\Downloads\\09-Stu_SpeedReader Unsolved\\09-Stu_SpeedReader Unsolved"
+		},
+		{
+			"path": "..\\Users\\12166\\Downloads\\10-Ins_Onclick\\10-Ins_Onclick"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "05-Stu_Setting-Attributes Unsolved"
+	}
+}
